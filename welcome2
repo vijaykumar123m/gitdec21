@@ -7,5 +7,9 @@ third line
 fourth line
 fifth line
 eighth line
+<<<<<<< HEAD
 
 10th line
+=======
+my 9th line
+>>>>>>> refs/remotes/origin/master
